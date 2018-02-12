@@ -1,0 +1,30 @@
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.exe.config
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.exe
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.pdb
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.csprojResolveAssemblyReference.cache
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Properties.Resources.resources
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.csproj.GenerateResource.Cache
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.exe
+c:\users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.pdb
+C:\Users\edvin789deed\Documents\Visual Studio 2013\Projects\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Form2.resources
+C:\Users\edvin789deed\documents\visual studio 2013\Projects\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Form3.resources
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.exe.config
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.exe
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.pdb
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.exe
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.pdb
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.csprojResolveAssemblyReference.cache
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Form2.resources
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Form3.resources
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Properties.Resources.resources
+D:\Documentos\Projects Visual Studio\visual 2012\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.csproj.GenerateResource.Cache
+F:\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.exe.config
+F:\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.exe
+F:\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.pdb
+F:\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.csprojResolveAssemblyReference.cache
+F:\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Form2.resources
+F:\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Form3.resources
+F:\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.Properties.Resources.resources
+F:\PRACTICANDO\PRACTICANDO\obj\Debug\PRACTICANDO.csproj.GenerateResource.Cache
+F:\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.exe
+F:\PRACTICANDO\PRACTICANDO\bin\Debug\PRACTICANDO.pdb
